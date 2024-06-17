@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://fiqgant.github.io/ci-cd-testing/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -23,4 +24,5 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.0"
   }
+  
 }
